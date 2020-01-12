@@ -4,7 +4,7 @@
     "name": "PomoTimer",
     "version": "1.0",
 
-    "description": "Adds a minimalist timer pop-up to the toolbar to help you maintain focus on your tasks",
+    "description": "Adds a minimalist timer to help you maintain focus on your tasks",
     "icons": {
         "48": "icons/timer-48.png"
     },
@@ -17,12 +17,6 @@
         "default_icon": "icons/timer-32.png",
         "default_title": "PomoTimer",
         "default_popup": "popup/timer.html"
-    },
-
-    "web_accessible_resources": [
-        "beasts/frog.jpg",
-        "beasts/turtle.jpg",
-        "beasts/snake.jpg"
-    ]
+    }
     
 }
